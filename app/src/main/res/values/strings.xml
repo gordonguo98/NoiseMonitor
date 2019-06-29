@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NoiseMonitor</string>
+    <string name="connect_btn_text">connect</string>
+    <string name="disconnect_btn_text">disconnect</string>
+    <string name="noise_hint">noise:</string>
+</resources>

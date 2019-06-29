@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/connect_btn_text"
+        android:id="@+id/connect"
+        android:icon="@drawable/ic_cast_connected_black_24dp"
+        app:showAsAction="always"
+
+        />
+
+</menu>
